@@ -1,0 +1,3 @@
+/home/simone/CLionProjects/ANN_omp/cmake-build-debug/CMakeFiles/ANN_omp.dir
+/home/simone/CLionProjects/ANN_omp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/simone/CLionProjects/ANN_omp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
